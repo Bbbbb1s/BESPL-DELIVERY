@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
             result.textContent = 'Введите число';
             return;
         }
-        curse = 14.04
+        curse = 14.50
         shipchina = curse * 10
         let calculation;
         if (selectedCalculation === 'clothes') {
